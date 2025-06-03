@@ -64,4 +64,3 @@ This project performs comprehensive **Exploratory Data Analysis (EDA)** on the c
 
 This EDA provided valuable insights into the structure and relationships of features in the Iris dataset. Such visual exploration is essential before applying machine learning models, as it uncovers hidden patterns and potential preprocessing needs.
 
-##  Video link
